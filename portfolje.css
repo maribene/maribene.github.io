@@ -58,6 +58,10 @@ a {
   #contact p {
     font-size: 15px;
   }
+  .aboutme{
+    text-align:center;
+    vertical-align: middle;
+  }
 }
 
 
