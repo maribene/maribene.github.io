@@ -32,10 +32,10 @@ a {
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
-    #packages li{
+    .aboutme{
         width: 100%;
     }
-    #packages2 li{
+    .contact{
       width: 100%;
     }
 }
