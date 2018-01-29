@@ -103,7 +103,7 @@ header p {
 }
 
 
-#packages ul {
+#preferences ul {
 
   list-style-type: none;
   margin-top: 100px;
@@ -112,7 +112,7 @@ header p {
   margin-bottom: 70px;
 }
 
-#packages li {
+#preferences li {
 
   display: table-cell;
   float: left;
@@ -121,14 +121,14 @@ header p {
 
 }
 
-#packages2 ul {
+#links ul {
 
   list-style-type: none;
   display: table;
   width: 100%;
 }
 
-#packages2 li{
+#links li{
 
   display: table-cell;
   float: center;
