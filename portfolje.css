@@ -1,7 +1,7 @@
 
 .mainheader{
     padding: 10px;
-    background-image: url('cute-owl.jpg');
+    background-image: url('/images/cute-owl.jpg');
     font: 40px;
 }
 
@@ -38,5 +38,3 @@ footer{
       padding: 1rem;
       text-align: center;
     }
-
-
