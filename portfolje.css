@@ -39,6 +39,10 @@ a {
   .container2{
     width: 80%;
   }
+  #preferences img {
+    margin: auto;
+    display: block;
+  }
 
   #preferences li {
     float: left;
@@ -48,10 +52,14 @@ a {
   }
   #links li {
     float: left;
-    max-width: 70%;
+    max-width: 100%;
     margin: 5% 0;
   }
+  #contact p {
+    font-size: 15px;
+  }
 }
+
 
 
 .container {
