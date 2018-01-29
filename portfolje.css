@@ -31,7 +31,7 @@ a {
 }
 
 @media only screen and (max-width: 880px) {
-  
+
   .container {
     width: 80%;
   }
@@ -53,6 +53,9 @@ a {
     float: left;
     max-width: 100%;
     margin: 10% 0;
+  }
+  .aboutme{
+  visibility: hidden;
   }
 }
 
@@ -115,6 +118,7 @@ header p {
 
 }
 .aboutme{
+  float: left;
   display: table-cell;
   text-align:center;
   vertical-align: middle;
@@ -133,7 +137,6 @@ header p {
 #preferences li {
 
   display: table-cell;
-  float: left;
   margin-right: 5%;
   max-width: 28%;
 
