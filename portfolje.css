@@ -33,6 +33,7 @@ a {
 @media only screen and (max-width: 500px) {
   .container {
     width: 80%;
+    max-width: 500px;
   }
   .container2{
     width: 80%;
