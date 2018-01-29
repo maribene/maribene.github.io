@@ -45,20 +45,10 @@ a {
     max-width: 30%;
     margin: 5% 0;
   }
-  #preferences ul {
-    list-style-type: none;
-    width: 70%;
-  }
-
   #links li {
     float: left;
     max-width: 70%;
     margin: 5% 0;
-  }
-
-  .aboutme{
-    text-align:center;
-    vertical-align: middle;
   }
 }
 
