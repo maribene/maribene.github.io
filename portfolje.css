@@ -1,0 +1,42 @@
+
+.mainheader{
+    padding: 10px;
+    background-image: url('cute-owl.jpg');
+    font: 40px;
+}
+
+body{
+  font-family:Courier New;
+  color: #00CED1;
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+    font-size : 30px;
+  color: rebeccapurple;
+}
+h2{
+    padding: 40px;
+    font-size: 20px;
+}
+h3{
+  padding: 40px;
+  font-size: 20px;
+}
+h4{
+    padding: 30px;
+  font-size: 20px;
+}
+footer{
+  color: black;
+    font-size: 14px;
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      padding: 1rem;
+      text-align: center;
+    }
+
+
