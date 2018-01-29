@@ -58,9 +58,8 @@ a {
   #contact p {
     font-size: 15px;
   }
-  .aboutme{
-    text-align:center;
-    vertical-align: middle;
+  #preferences{
+    visibility: hidden;
   }
 }
 
@@ -69,7 +68,6 @@ a {
 .container {
 
   width: 100%;
-  height: 100%;
   max-width: 980px;
   margin: 0 auto;
   padding: 0 15px;
@@ -139,6 +137,11 @@ header p {
   margin-bottom: 70px;
 }
 
+#preferences {
+
+  float: left;
+
+}
 #preferences li {
 
   display: table-cell;
