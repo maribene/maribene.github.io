@@ -47,7 +47,7 @@ header {
   position: relative;
   overflow: hidden;
   background-color: grey;
-  background-image: url('https://raw.githubusercontent.com/maribene/maribene.github.io/master/images/desktop-hero.jpg');
+  background-image: url('https://raw.githubusercontent.com/maribene/maribene.github.io/master/desktop-hero.jpg');
   background-size: cover;
 }
 
