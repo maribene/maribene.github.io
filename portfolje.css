@@ -22,7 +22,7 @@ section {
 }
 
 a {
-  color: white;
+  color: #5F9EA0;
   font-weight: 600;
 }
 
@@ -120,11 +120,6 @@ header p {
   float: center;
 
 }
-#packages2{
-  background-color: #5F9EA0;
-
-}
-
 
 
 #contact p {
