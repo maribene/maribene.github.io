@@ -41,17 +41,17 @@ a {
 @media only screen and (max-width: 500px) {
 
   #preferences li {
-    float: center;
+    float: left;
     max-width: 70%;
     margin: 5% 0;
   }
   #links li {
-    float: center;
+    float: left;
     max-width: 70%;
     margin: 5% 0;
   }
-  #contact li{
-    float: center;
+  #contact p{
+    text-align: center;
   }
 
 }
