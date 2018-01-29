@@ -32,13 +32,10 @@ a {
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
-    #airplane {
+    #packages li{
         width: 100%;
     }
-    #heart{
-      width: 100%;
-    }
-    #home{
+    #packages2 li{
       width: 100%;
     }
 }
