@@ -37,6 +37,13 @@ a {
 
 
 }
+.container2{
+height: 100%;
+width: 100%;
+margin: 0 auto;
+padding: 0 15px;
+font-family: 'Poiret One', cursive;
+}
 
 .contact{
   text-align:center;
@@ -116,11 +123,6 @@ header p {
 #packages2{
   background-color: #5F9EA0;
 
-  height: 100%;
-  width: 100%;
-  margin: 0 auto;
-  padding: 0 15px;
-  font-family: 'Poiret One', cursive;
 }
 
 
