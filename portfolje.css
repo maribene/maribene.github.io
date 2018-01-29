@@ -41,12 +41,12 @@ a {
 @media only screen and (max-width: 500px) {
 
   #preferences li {
-    float: left;
+    float: center;
     max-width: 70%;
     margin: 5% 0;
   }
   #links li {
-    float: left;
+    float: center;
     max-width: 70%;
     margin: 5% 0;
   }
