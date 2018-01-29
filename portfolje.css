@@ -45,6 +45,14 @@ a {
     max-width: 70%;
     margin: 5% 0;
   }
+  #preferences ul {
+
+    list-style-type: none;
+    margin-top: 100px;
+    width: 100%;
+    margin-bottom: 70px;
+  }
+
   #links li {
     float: left;
     max-width: 70%;
