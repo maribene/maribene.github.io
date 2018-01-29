@@ -32,7 +32,7 @@ a {
 
 @media only screen and (max-width: 500px) {
   .container {
-    width: 80%;
+    width: 120%;
     max-width: 500px;
   }
   .container2{
@@ -43,7 +43,7 @@ a {
 
   #preferences li {
     float: left;
-    max-width: 30%;
+    max-width: 70%;
     margin: 5% 0;
   }
   #links li {
