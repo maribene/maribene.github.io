@@ -6,7 +6,6 @@ html {
 body {
   background: #fff;
   color: #3C5490;
-  font-size: 1.1em;
   line-height: 1.5;
   margin: 0 auto;
 }
@@ -45,6 +44,7 @@ a {
     max-width: 100%;
     margin: 10% 0;
     padding: 20px 0;
+    margin-right: 100px;
   }
   #preferences img{
     margin: auto;
@@ -54,7 +54,8 @@ a {
 
      margin: 10% 0;
      max-width: 100%;
-     margin: 0 200px 100px 0;
+     margin-left: 100px;
+     margin-right: 200px;
      float:left;
 
       }
