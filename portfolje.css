@@ -82,6 +82,7 @@ a {
 .container2{
   height: 100%;
   width: 100%;
+  max-width: 980px;
   margin: 0 auto;
   padding: 0 15px;
   font-family: 'Poiret One', cursive;
