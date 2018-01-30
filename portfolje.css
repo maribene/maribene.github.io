@@ -28,7 +28,7 @@ a {
   font-weight: 600;
 }
 
-@media only screen and (max-width: 880px) {
+@media only screen and (max-width: 1000px) {
 
   .container {
     width: 80%;
@@ -36,6 +36,9 @@ a {
   .container2{
     width: 80%;
 
+  }
+  html,body{
+    overflow-x: hidden;
   }
 
   #preferences li {
@@ -60,8 +63,10 @@ a {
 
   }
   header{
+
     background-image: url('https://raw.githubusercontent.com/maribene/maribene.github.io/master/mobile-hero.jpg');
     background-position: center;
+    background-size: cover;
   }
 }
 
