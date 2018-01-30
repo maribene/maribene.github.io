@@ -35,8 +35,8 @@ a {
     width: 80%;
   }
   .container2{
-
     width: 80%;
+
   }
 
   #preferences li {
@@ -44,20 +44,18 @@ a {
     float:left;
     max-width: 100%;
     margin: 10% 0;
-
+    padding: 20px 0;
   }
   #preferences img{
     margin: auto;
     display: block;
   }
   #links li {
-
-    float:left;
-     margin: 10% 0;
-     max-width: 100%;
-     padding: 0 0 0 120px;
-
-  }
+     float:left;
+     margin: 5% 0;
+     max-width: 80%;
+     padding: 0 200px 0 200px;
+      }
 
 }
 
