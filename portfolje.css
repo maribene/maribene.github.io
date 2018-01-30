@@ -51,9 +51,15 @@ a {
     display: block;
   }
   #links li {
-    float:left;
-    max-width: 100%;
-    margin: 10% 0;
+    float: center;
+     max-width: 70%;
+     margin: 5% 0;
+  }
+  #contact p {
+
+    text-align: center;
+    font-size: 12px;
+
   }
 }
 
@@ -127,10 +133,8 @@ header p {
 #preferences ul {
 
   list-style-type: none;
-  margin-top: 100px;
   display: table;
   width: 100%;
-  margin-bottom: 70px;
 }
 
 #preferences li {
