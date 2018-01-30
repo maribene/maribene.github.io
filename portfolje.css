@@ -52,7 +52,7 @@ a {
   }
   #links li {
     float: center;
-     max-width: 70%;
+     max-width: 100%;
      margin: 5% 0;
   }
   #contact p {
