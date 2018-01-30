@@ -51,6 +51,7 @@ a {
     display: block;
   }
   #links li {
+    float:left;
     max-width: 100%;
     margin: 10% 0;
   }
@@ -133,7 +134,7 @@ header p {
 }
 
 #preferences li {
-  
+
   display: table-cell;
 
 }
