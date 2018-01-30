@@ -52,17 +52,17 @@ a {
   }
   #links li {
 
-     margin: 10% 0;
-     max-width: 100%;
-     margin-left: 100px;
-     margin-right: 200px;
-     float:left;
+    margin: 10% 0;
+    max-width: 100%;
+    margin-left: 100px;
+    margin-right: 200px;
+    float:left;
 
-      }
-    header{
-      background-image: url('https://raw.githubusercontent.com/maribene/maribene.github.io/master/mobile-hero.jpg');
-      background-position: center;
-    }
+  }
+  header{
+    background-image: url('https://raw.githubusercontent.com/maribene/maribene.github.io/master/mobile-hero.jpg');
+    background-position: center;
+  }
 }
 
 
