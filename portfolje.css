@@ -42,6 +42,7 @@ a {
 @media only screen and (max-width: 880px) {
 
   #preferences li {
+    float:left;
     max-width: 100%;
     margin: 10% 0;
   }
@@ -50,7 +51,6 @@ a {
     display: block;
   }
   #links li {
-    float: left;
     max-width: 100%;
     margin: 10% 0;
   }
@@ -116,7 +116,7 @@ header p {
 
 }
 .aboutme{
-  float: left;
+
   display: table-cell;
   text-align:center;
   vertical-align: middle;
@@ -133,10 +133,8 @@ header p {
 }
 
 #preferences li {
-
+  
   display: table-cell;
-  margin-right: 5%;
-  max-width: 28%;
 
 }
 
@@ -150,7 +148,6 @@ header p {
 #links li{
 
   display: table-cell;
-  float: center;
 
 }
 
