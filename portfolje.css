@@ -53,7 +53,8 @@ a {
   #links li {
     float: center;
      max-width: 100%;
-     margin: 5% 0;
+     margin: 10% 0;
+     font-size: 20px;
   }
   #contact p {
 
