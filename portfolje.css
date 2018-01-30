@@ -59,6 +59,10 @@ a {
      float:left;
 
       }
+    header{
+      background-image: url('https://raw.githubusercontent.com/maribene/maribene.github.io/master/mobile-hero.jpg');
+      background-position: center;
+    }
 }
 
 
