@@ -35,25 +35,26 @@ a {
     width: 80%;
   }
   .container2{
-    width: 70%;
+    width: 80%;
     font-size: 20px;
   }
 }
 @media only screen and (max-width: 880px) {
 
   #preferences li {
-    float:left;
+
     max-width: 100%;
-    margin: 0;
+    margin: 10% 0;
   }
   #preferences img{
     margin: auto;
     display: block;
   }
+
   #links li {
-    float: center;
-     max-width: 100%;
-     margin: 0;
+
+    max-width: 100%;
+    margin: 10% 0;
 
   }
   #contact p {
