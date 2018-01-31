@@ -1,3 +1,3 @@
 # maribene.github.io
 
-Work in progress.
+Personal website built using HTML and CSS.
