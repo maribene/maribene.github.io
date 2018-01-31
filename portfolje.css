@@ -33,7 +33,7 @@ a {
   .container {
     width: 80%;
   }
-  .container2{
+  .holder{
     width: 80%;
 
   }
@@ -84,7 +84,7 @@ a {
 
 
 }
-.container2{
+.holder{
 
   height: 100%;
   width: 100%;
